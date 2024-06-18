@@ -1,0 +1,14 @@
+superset of js
+A superset of JavaScript is a programming language that is compatible with JavaScript and adds additional features or syntax
+Typescript
+TypeScript is a superset of JavaScript that adds optional static typing and other features to improve the development
+experience. It is designed to help developers catch errors early and improve code maintainability, thus making it
+a popular choice for large and complex applications.
+
+Strict Types
+TypeScript adds optional static typing to JavaScript, which means that you can specify the data type of a
+variable, function parameter, or return value. This helps catch type-related errors at compile-time rather
+than at runtime.
+
+Types is Typescript
+
