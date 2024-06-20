@@ -35,4 +35,9 @@ ninjaOne={
     age:29
 }
 
+// vid 6 on any
+let person :{name:any, age:any};
 
+person={name:52, age:"dd"}
+console.log(person);
+// Typescript any 

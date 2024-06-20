@@ -23,3 +23,8 @@ ninjaOne = {
     name: "Yoi",
     age: 29
 };
+// vid 6 on any
+var person;
+person = { name: 52, age: "dd" };
+console.log(person);
+// Typescript any 
